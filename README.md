@@ -1,1 +1,3 @@
 # Solidity_Savings_Contract
+
+This solidity program simulates a joint-savings account transacting in cryptocurrency. It can be compiled and deployed on solidity 0.5.0 and above. It supports setting the two joint owners, depositing currency, and withdrawing from the contract. The program will ensure the withdrawals are only made by the owners, and the balance of the contract doesn't go into the negative.
